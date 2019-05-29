@@ -31,3 +31,5 @@ python3 crawler.py -d assets/chromedriver
 ```
 
 4. Output file will be generated in output.txt
+
+Note: other csv files in the folder are created using the final_output.txt. I already ran this on a server, and output is stored in final_output.txt. All the urls for US cities are in US_cities.txt. You have to mention URLs those you want to search price for in input_cities.txt and output will be in output.txt
