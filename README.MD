@@ -1,22 +1,33 @@
 # Introduction
-Python script to automatically post job ads to craigslist.
-
-# Description
-To quote...
-> _To build our waitlist. we'd like to automate posting job ads to Craigslist on a frequent basis. In the past, we have posted manually in 2 cities which doesn't scale. Going forward, we would like to have a script that posts automatically. 
-> There is a lot of information out there how people automated scraping and posting to Craigslist._
-
-# Requirements
 To quote...
 > As for desired requirements:
 > 1. Generate a list of all the US Craigslist cities (https://www.craigslist.org/about/sites) and how much it costs to post a job ad. All cities have different prices for job posts, some are free. This might require some scraping. 
-> 2. Build a script that can automatically post a job post to a set of selected cities and generate a report with all the URLs to the individual job posts.
-> 3. Build a simple mechanism to target specific cities for posting. This can be as simple as using a csv file as an input. Reason we need this is that we might adjust our strategy over time._
 
-# Questions
-1. What is the process to use the api of bulk posting. Do we want to signup for that process and go through various steps with the Craigslist.
-2. Are we targeting free cities of paid cities? 
-3. Which categories are we posting in it?
-4. How many cities are you going to post a job?
-5. It seems possible to build the solution for free cities.
+# How to use
+1. Install the requirements.
+```
+pip3 install -r requirements.txt
+```
 
+2. You need to have your driver for browser. I used chromedriver, a chromedriver should be same as your chrome version.
+List of chromedrivers - http://chromedriver.chromium.org/downloads you can download it from here and put it into assets/ folder.
+
+3. You also need to have a list of URL for cities you want to find a price per job post. In this post all the US cities are extracted.
+
+- Go to this site https://www.craigslist.org/about/sites
+- Download the html page.
+- Name it as a.html
+- Open it in a editor and remove lines outside the US div, keep only <li> tags of US cities.
+- Run the following code.
+  
+```
+cat a.html | grep "href=" | cut -d'>' -f2 | cut -d'=' -f2 | tr -d '"' > input_cities.txt
+```
+- This will generate a input_cities.txt file which contains all the url for US cities.
+
+3. Run the crawler.py file.
+```
+python3 crawler.py -d assets/chromedriver
+```
+
+4. Output file will be generated in output.txt
