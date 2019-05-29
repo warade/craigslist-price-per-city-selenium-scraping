@@ -1,0 +1,416 @@
+url,price,name
+https://auburn.craigslist.org/,10.00,auburn
+https://bham.craigslist.org/,25.00,birmingham
+https://dothan.craigslist.org/,10.00,dothan
+https://shoals.craigslist.org/,10.00,florence / muscle shoals
+https://gadsden.craigslist.org/,10.00,gadsden-anniston
+https://huntsville.craigslist.org/,15.00,huntsville / decatur
+https://mobile.craigslist.org/,15.00,mobile
+https://montgomery.craigslist.org/,10.00,montgomery
+https://tuscaloosa.craigslist.org/,10.00,tuscaloosa
+https://anchorage.craigslist.org/,20.00,anchorage / mat-su
+https://fairbanks.craigslist.org/,10.00,fairbanks
+https://kenai.craigslist.org/,10.00,kenai peninsula
+https://juneau.craigslist.org/,10.00,southeast alaska
+https://flagstaff.craigslist.org/,15.00,flagstaff / sedona
+https://mohave.craigslist.org/,10.00,mohave county
+https://phoenix.craigslist.org/,45.00,phoenix
+https://prescott.craigslist.org/,10.00,prescott
+https://showlow.craigslist.org/,10.00,show low
+https://sierravista.craigslist.org/,10.00,sierra vista
+https://tucson.craigslist.org/,25.00,tucson
+https://yuma.craigslist.org/,10.00,yuma
+https://fayar.craigslist.org/,20.00,fayetteville 
+https://fortsmith.craigslist.org/,10.00,fort smith
+https://jonesboro.craigslist.org/,10.00,jonesboro
+https://littlerock.craigslist.org/,20.00,little rock
+https://texarkana.craigslist.org/,10.00,texarkana
+https://bakersfield.craigslist.org/,20.00,bakersfield
+https://chico.craigslist.org/,15.00,chico
+https://fresno.craigslist.org/,25.00,fresno / madera
+https://goldcountry.craigslist.org/,15.00,gold country
+https://hanford.craigslist.org/,10.00,hanford-corcoran
+https://humboldt.craigslist.org/,15.00,humboldt county
+https://imperial.craigslist.org/,10.00,imperial county
+https://inlandempire.craigslist.org/,35.00,inland empire
+https://losangeles.craigslist.org/,45.00,los angeles
+https://mendocino.craigslist.org/,10.00,mendocino county
+https://merced.craigslist.org/,10.00,merced
+https://modesto.craigslist.org/,20.00,modesto
+https://monterey.craigslist.org/,20.00,monterey bay
+https://orangecounty.craigslist.org/,35.00,orange county
+https://palmsprings.craigslist.org/,15.00,palm springs
+https://redding.craigslist.org/,15.00,redding
+https://sacramento.craigslist.org/,35.00,sacramento
+https://sandiego.craigslist.org/,35.00,san diego
+https://sfbay.craigslist.org/,75.00,san francisco bay area
+https://slo.craigslist.org/,20.00,san luis obispo
+https://santabarbara.craigslist.org/,20.00,santa barbara
+https://santamaria.craigslist.org/,15.00,santa maria
+https://siskiyou.craigslist.org/,10.00,siskiyou county
+https://stockton.craigslist.org/,20.00,stockton
+https://susanville.craigslist.org/,10.00,susanville
+https://ventura.craigslist.org/,25.00,ventura county
+https://visalia.craigslist.org/,10.00,visalia-tulare
+https://yubasutter.craigslist.org/,10.00,yuba-sutter
+https://boulder.craigslist.org/,25.00,boulder
+https://cosprings.craigslist.org/,25.00,colorado springs
+https://denver.craigslist.org/,45.00,denver
+https://eastco.craigslist.org/,10.00,eastern CO
+https://fortcollins.craigslist.org/,25.00,fort collins / north CO
+https://rockies.craigslist.org/,15.00,high rockies
+https://pueblo.craigslist.org/,10.00,pueblo
+https://westslope.craigslist.org/,15.00,western slope
+https://newlondon.craigslist.org/,15.00,eastern CT
+https://hartford.craigslist.org/,25.00,hartford
+https://newhaven.craigslist.org/,25.00,new haven
+https://nwct.craigslist.org/,10.00,northwest CT
+https://delaware.craigslist.org/,20.00,delaware
+https://washingtondc.craigslist.org/,35.00,washington
+https://daytona.craigslist.org/,20.00,daytona beach
+https://keys.craigslist.org/,10.00,florida keys
+https://fortlauderdale.craigslist.org/,45.00,fort lauderdale
+https://fortmyers.craigslist.org/,25.00,ft myers / SW florida
+https://gainesville.craigslist.org/,20.00,gainesville
+https://cfl.craigslist.org/,10.00,heartland florida
+https://jacksonville.craigslist.org/,25.00,jacksonville
+https://lakeland.craigslist.org/,20.00,lakeland
+https://lakecity.craigslist.org/,10.00,north central FL
+https://ocala.craigslist.org/,20.00,ocala
+https://okaloosa.craigslist.org/,15.00,okaloosa / walton
+https://orlando.craigslist.org/,35.00,orlando
+https://panamacity.craigslist.org/,15.00,panama city
+https://pensacola.craigslist.org/,20.00,pensacola
+https://sarasota.craigslist.org/,25.00,sarasota-bradenton
+https://miami.craigslist.org/,45.00,south florida
+https://spacecoast.craigslist.org/,20.00,space coast
+https://staugustine.craigslist.org/,15.00,st augustine
+https://tallahassee.craigslist.org/,15.00,tallahassee
+https://tampa.craigslist.org/,35.00,tampa bay area
+https://treasure.craigslist.org/,20.00,treasure coast
+https://albanyga.craigslist.org/,10.00,albany 
+https://athensga.craigslist.org/,15.00,athens
+https://atlanta.craigslist.org/,35.00,atlanta
+https://augusta.craigslist.org/,15.00,augusta
+https://brunswick.craigslist.org/,10.00,brunswick
+https://columbusga.craigslist.org/,10.00,columbus 
+https://macon.craigslist.org/,15.00,macon / warner robins
+https://nwga.craigslist.org/,10.00,northwest GA
+https://savannah.craigslist.org/,20.00,savannah / hinesville
+https://statesboro.craigslist.org/,10.00,statesboro
+https://valdosta.craigslist.org/,10.00,valdosta
+https://honolulu.craigslist.org/,35.00,hawaii
+https://boise.craigslist.org/,25.00,boise
+https://eastidaho.craigslist.org/,10.00,east idaho
+https://lewiston.craigslist.org/,10.00,lewiston / clarkston
+https://twinfalls.craigslist.org/,10.00,twin falls
+https://bn.craigslist.org/,10.00,bloomington-normal
+https://chambana.craigslist.org/,10.00,champaign urbana
+https://chicago.craigslist.org/,45.00,chicago
+https://decatur.craigslist.org/,10.00,decatur
+https://lasalle.craigslist.org/,10.00,la salle co
+https://mattoon.craigslist.org/,10.00,mattoon-charleston
+https://peoria.craigslist.org/,15.00,peoria
+https://rockford.craigslist.org/,20.00,rockford
+https://carbondale.craigslist.org/,10.00,southern illinois
+https://springfieldil.craigslist.org/,10.00,springfield 
+https://quincy.craigslist.org/,10.00,western IL
+https://bloomington.craigslist.org/,15.00,bloomington
+https://evansville.craigslist.org/,15.00,evansville
+https://fortwayne.craigslist.org/,20.00,fort wayne
+https://indianapolis.craigslist.org/,25.00,indianapolis
+https://kokomo.craigslist.org/,10.00,kokomo
+https://tippecanoe.craigslist.org/,10.00,lafayette / west lafayette
+https://muncie.craigslist.org/,10.00,muncie / anderson
+https://richmondin.craigslist.org/,10.00,richmond 
+https://southbend.craigslist.org/,20.00,south bend / michiana
+https://terrehaute.craigslist.org/,10.00,terre haute
+https://ames.craigslist.org/,10.00,ames
+https://cedarrapids.craigslist.org/,15.00,cedar rapids
+https://desmoines.craigslist.org/,20.00,des moines
+https://dubuque.craigslist.org/,10.00,dubuque
+https://fortdodge.craigslist.org/,10.00,fort dodge
+https://iowacity.craigslist.org/,10.00,iowa city
+https://masoncity.craigslist.org/,10.00,mason city
+https://quadcities.craigslist.org/,15.00,quad cities
+https://siouxcity.craigslist.org/,10.00,sioux city
+https://ottumwa.craigslist.org/,10.00,southeast IA
+https://waterloo.craigslist.org/,10.00,waterloo / cedar falls
+https://lawrence.craigslist.org/,10.00,lawrence
+https://ksu.craigslist.org/,10.00,manhattan
+https://nwks.craigslist.org/,10.00,northwest KS
+https://salina.craigslist.org/,10.00,salina
+https://seks.craigslist.org/,10.00,southeast KS
+https://swks.craigslist.org/,10.00,southwest KS
+https://topeka.craigslist.org/,15.00,topeka
+https://wichita.craigslist.org/,20.00,wichita
+https://bgky.craigslist.org/,10.00,bowling green
+https://eastky.craigslist.org/,10.00,eastern kentucky
+https://lexington.craigslist.org/,20.00,lexington
+https://louisville.craigslist.org/,25.00,louisville
+https://owensboro.craigslist.org/,10.00,owensboro
+https://westky.craigslist.org/,10.00,western KY
+https://batonrouge.craigslist.org/,20.00,baton rouge
+https://cenla.craigslist.org/,10.00,central louisiana
+https://houma.craigslist.org/,10.00,houma
+https://lafayette.craigslist.org/,10.00,lafayette
+https://lakecharles.craigslist.org/,10.00,lake charles
+https://monroe.craigslist.org/,10.00,monroe
+https://neworleans.craigslist.org/,25.00,new orleans
+https://shreveport.craigslist.org/,15.00,shreveport
+https://maine.craigslist.org/,25.00,maine
+https://annapolis.craigslist.org/,15.00,annapolis
+https://baltimore.craigslist.org/,25.00,baltimore
+https://easternshore.craigslist.org/,15.00,eastern shore
+https://frederick.craigslist.org/,15.00,frederick
+https://smd.craigslist.org/,10.00,southern maryland
+https://westmd.craigslist.org/,10.00,western maryland
+https://boston.craigslist.org/,45.00,boston
+https://capecod.craigslist.org/,20.00,cape cod / islands
+https://southcoast.craigslist.org/,20.00,south coast
+https://westernmass.craigslist.org/,20.00,western massachusetts
+https://worcester.craigslist.org/,25.00,worcester / central MA
+https://annarbor.craigslist.org/,20.00,ann arbor
+https://battlecreek.craigslist.org/,10.00,battle creek
+https://centralmich.craigslist.org/,10.00,central michigan
+https://detroit.craigslist.org/,35.00,detroit metro
+https://flint.craigslist.org/,15.00,flint
+https://grandrapids.craigslist.org/,25.00,grand rapids
+https://holland.craigslist.org/,10.00,holland
+https://jxn.craigslist.org/,10.00,jackson 
+https://kalamazoo.craigslist.org/,15.00,kalamazoo
+https://lansing.craigslist.org/,20.00,lansing
+https://monroemi.craigslist.org/,10.00,monroe 
+https://muskegon.craigslist.org/,10.00,muskegon
+https://nmi.craigslist.org/,15.00,northern michigan
+https://porthuron.craigslist.org/,10.00,port huron
+https://saginaw.craigslist.org/,10.00,saginaw-midland-baycity
+https://swmi.craigslist.org/,10.00,southwest michigan
+https://thumb.craigslist.org/,10.00,the thumb
+https://up.craigslist.org/,10.00,upper peninsula
+https://bemidji.craigslist.org/,10.00,bemidji
+https://brainerd.craigslist.org/,10.00,brainerd
+https://duluth.craigslist.org/,15.00,duluth / superior
+https://mankato.craigslist.org/,10.00,mankato
+https://minneapolis.craigslist.org/,35.00,minneapolis / st paul
+https://rmn.craigslist.org/,15.00,rochester 
+https://marshall.craigslist.org/,10.00,southwest MN
+https://stcloud.craigslist.org/,15.00,st cloud
+https://gulfport.craigslist.org/,10.00,gulfport / biloxi
+https://hattiesburg.craigslist.org/,10.00,hattiesburg
+https://jackson.craigslist.org/,15.00,jackson
+https://meridian.craigslist.org/,10.00,meridian
+https://northmiss.craigslist.org/,10.00,north mississippi
+https://natchez.craigslist.org/,10.00,southwest MS
+https://columbiamo.craigslist.org/,15.00,columbia / jeff city
+https://joplin.craigslist.org/,15.00,joplin
+https://kansascity.craigslist.org/,25.00,kansas city
+https://kirksville.craigslist.org/,10.00,kirksville
+https://loz.craigslist.org/,10.00,lake of the ozarks
+https://semo.craigslist.org/,10.00,southeast missouri
+https://springfield.craigslist.org/,20.00,springfield
+https://stjoseph.craigslist.org/,10.00,st joseph
+https://stlouis.craigslist.org/,25.00,st louis
+https://billings.craigslist.org/,15.00,billings
+https://bozeman.craigslist.org/,20.00,bozeman
+https://butte.craigslist.org/,10.00,butte
+https://greatfalls.craigslist.org/,10.00,great falls
+https://helena.craigslist.org/,10.00,helena
+https://kalispell.craigslist.org/,10.00,kalispell
+https://missoula.craigslist.org/,15.00,missoula
+https://montana.craigslist.org/,10.00,eastern montana
+https://grandisland.craigslist.org/,10.00,grand island
+https://lincoln.craigslist.org/,15.00,lincoln
+https://northplatte.craigslist.org/,10.00,north platte
+https://omaha.craigslist.org/,25.00,omaha / council bluffs
+https://scottsbluff.craigslist.org/,10.00,scottsbluff / panhandle
+https://elko.craigslist.org/,10.00,elko
+https://lasvegas.craigslist.org/,35.00,las vegas
+https://reno.craigslist.org/,25.00,reno / tahoe
+https://nh.craigslist.org/,25.00,new hampshire
+https://cnj.craigslist.org/,25.00,central NJ
+https://jerseyshore.craigslist.org/,25.00,jersey shore
+https://newjersey.craigslist.org/,35.00,north jersey
+https://southjersey.craigslist.org/,25.00,south jersey
+https://albuquerque.craigslist.org/,25.00,albuquerque
+https://clovis.craigslist.org/,10.00,clovis / portales
+https://farmington.craigslist.org/,10.00,farmington
+https://lascruces.craigslist.org/,10.00,las cruces
+https://roswell.craigslist.org/,10.00,roswell / carlsbad
+https://santafe.craigslist.org/,15.00,santa fe / taos
+https://albany.craigslist.org/,25.00,albany
+https://binghamton.craigslist.org/,15.00,binghamton
+https://buffalo.craigslist.org/,25.00,buffalo
+https://catskills.craigslist.org/,10.00,catskills
+https://chautauqua.craigslist.org/,10.00,chautauqua
+https://elmira.craigslist.org/,10.00,elmira-corning
+https://fingerlakes.craigslist.org/,10.00,finger lakes
+https://glensfalls.craigslist.org/,10.00,glens falls
+https://hudsonvalley.craigslist.org/,25.00,hudson valley
+https://ithaca.craigslist.org/,10.00,ithaca
+https://longisland.craigslist.org/,25.00,long island
+https://newyork.craigslist.org/,45.00,new york city
+https://oneonta.craigslist.org/,10.00,oneonta
+https://plattsburgh.craigslist.org/,10.00,plattsburgh-adirondacks
+https://potsdam.craigslist.org/,10.00,potsdam-canton-massena
+https://rochester.craigslist.org/,25.00,rochester
+https://syracuse.craigslist.org/,20.00,syracuse
+https://twintiers.craigslist.org/,10.00,twin tiers NY/PA
+https://utica.craigslist.org/,10.00,utica-rome-oneida
+https://watertown.craigslist.org/,10.00,watertown
+https://asheville.craigslist.org/,20.00,asheville
+https://boone.craigslist.org/,10.00,boone
+https://charlotte.craigslist.org/,35.00,charlotte
+https://eastnc.craigslist.org/,15.00,eastern NC
+https://fayetteville.craigslist.org/,20.00,fayetteville
+https://greensboro.craigslist.org/,20.00,greensboro
+https://hickory.craigslist.org/,15.00,hickory / lenoir
+https://onslow.craigslist.org/,10.00,jacksonville 
+https://outerbanks.craigslist.org/,10.00,outer banks
+https://raleigh.craigslist.org/,25.00,raleigh / durham / CH
+https://wilmington.craigslist.org/,20.00,wilmington
+https://winstonsalem.craigslist.org/,20.00,winston-salem
+https://bismarck.craigslist.org/,10.00,bismarck
+https://fargo.craigslist.org/,15.00,fargo / moorhead
+https://grandforks.craigslist.org/,10.00,grand forks
+https://nd.craigslist.org/,10.00,north dakota
+https://akroncanton.craigslist.org/,25.00,akron / canton
+https://ashtabula.craigslist.org/,10.00,ashtabula
+https://athensohio.craigslist.org/,10.00,athens 
+https://chillicothe.craigslist.org/,10.00,chillicothe
+https://cincinnati.craigslist.org/,25.00,cincinnati
+https://cleveland.craigslist.org/,25.00,cleveland
+https://columbus.craigslist.org/,25.00,columbus
+https://dayton.craigslist.org/,20.00,dayton / springfield
+https://limaohio.craigslist.org/,15.00,lima / findlay
+https://mansfield.craigslist.org/,10.00,mansfield
+https://sandusky.craigslist.org/,10.00,sandusky
+https://toledo.craigslist.org/,20.00,toledo
+https://tuscarawas.craigslist.org/,10.00,tuscarawas co
+https://youngstown.craigslist.org/,15.00,youngstown
+https://zanesville.craigslist.org/,10.00,zanesville / cambridge
+https://lawton.craigslist.org/,10.00,lawton
+https://enid.craigslist.org/,10.00,northwest OK
+https://oklahomacity.craigslist.org/,25.00,oklahoma city
+https://stillwater.craigslist.org/,10.00,stillwater
+https://tulsa.craigslist.org/,25.00,tulsa
+https://bend.craigslist.org/,20.00,bend
+https://corvallis.craigslist.org/,15.00,corvallis/albany
+https://eastoregon.craigslist.org/,10.00,east oregon
+https://eugene.craigslist.org/,20.00,eugene
+https://klamath.craigslist.org/,10.00,klamath falls
+https://medford.craigslist.org/,20.00,medford-ashland
+https://oregoncoast.craigslist.org/,15.00,oregon coast
+https://portland.craigslist.org/,45.00,portland
+https://roseburg.craigslist.org/,10.00,roseburg
+https://salem.craigslist.org/,20.00,salem
+https://altoona.craigslist.org/,10.00,altoona-johnstown
+https://chambersburg.craigslist.org/,10.00,cumberland valley
+https://erie.craigslist.org/,10.00,erie
+https://harrisburg.craigslist.org/,20.00,harrisburg
+https://lancaster.craigslist.org/,20.00,lancaster
+https://allentown.craigslist.org/,20.00,lehigh valley
+https://meadville.craigslist.org/,10.00,meadville
+https://philadelphia.craigslist.org/,35.00,philadelphia
+https://pittsburgh.craigslist.org/,25.00,pittsburgh
+https://poconos.craigslist.org/,10.00,poconos
+https://reading.craigslist.org/,20.00,reading
+https://scranton.craigslist.org/,20.00,scranton / wilkes-barre
+https://pennstate.craigslist.org/,10.00,state college
+https://williamsport.craigslist.org/,10.00,williamsport
+https://york.craigslist.org/,15.00,york
+https://providence.craigslist.org/,25.00,rhode island
+https://charleston.craigslist.org/,25.00,charleston
+https://columbia.craigslist.org/,20.00,columbia
+https://florencesc.craigslist.org/,10.00,florence
+https://greenville.craigslist.org/,25.00,greenville / upstate
+https://hiltonhead.craigslist.org/,10.00,hilton head
+https://myrtlebeach.craigslist.org/,20.00,myrtle beach
+https://nesd.craigslist.org/,10.00,northeast SD
+https://csd.craigslist.org/,10.00,pierre / central SD
+https://rapidcity.craigslist.org/,10.00,rapid city / west SD
+https://siouxfalls.craigslist.org/,10.00,sioux falls / SE SD
+https://sd.craigslist.org/,10.00,south dakota
+https://chattanooga.craigslist.org/,20.00,chattanooga
+https://clarksville.craigslist.org/,10.00,clarksville
+https://cookeville.craigslist.org/,10.00,cookeville
+https://jacksontn.craigslist.org/,10.00,jackson  
+https://knoxville.craigslist.org/,25.00,knoxville
+https://memphis.craigslist.org/,25.00,memphis
+https://nashville.craigslist.org/,35.00,nashville
+https://tricities.craigslist.org/,15.00,tri-cities
+https://abilene.craigslist.org/,10.00,abilene
+https://amarillo.craigslist.org/,15.00,amarillo
+https://austin.craigslist.org/,35.00,austin
+https://beaumont.craigslist.org/,10.00,beaumont / port arthur
+https://brownsville.craigslist.org/,10.00,brownsville
+https://collegestation.craigslist.org/,15.00,college station
+https://corpuschristi.craigslist.org/,15.00,corpus christi
+https://dallas.craigslist.org/,45.00,dallas / fort worth
+https://nacogdoches.craigslist.org/,10.00,deep east texas
+https://delrio.craigslist.org/,10.00,del rio / eagle pass
+https://elpaso.craigslist.org/,20.00,el paso
+https://galveston.craigslist.org/,10.00,galveston
+https://houston.craigslist.org/,35.00,houston
+https://killeen.craigslist.org/,15.00,killeen / temple / ft hood
+https://laredo.craigslist.org/,15.00,laredo
+https://lubbock.craigslist.org/,15.00,lubbock
+https://mcallen.craigslist.org/,20.00,mcallen / edinburg
+https://odessa.craigslist.org/,20.00,odessa / midland
+https://sanangelo.craigslist.org/,10.00,san angelo
+https://sanantonio.craigslist.org/,35.00,san antonio
+https://sanmarcos.craigslist.org/,15.00,san marcos
+https://bigbend.craigslist.org/,10.00,southwest TX
+https://texoma.craigslist.org/,10.00,texoma
+https://easttexas.craigslist.org/,15.00,tyler / east TX
+https://victoriatx.craigslist.org/,10.00,victoria 
+https://waco.craigslist.org/,15.00,waco
+https://wichitafalls.craigslist.org/,10.00,wichita falls
+https://logan.craigslist.org/,10.00,logan
+https://ogden.craigslist.org/,10.00,ogden-clearfield
+https://provo.craigslist.org/,10.00,provo / orem
+https://saltlakecity.craigslist.org/,20.00,salt lake city
+https://stgeorge.craigslist.org/,10.00,st george
+https://vermont.craigslist.org/,20.00,vermont
+https://charlottesville.craigslist.org/,15.00,charlottesville
+https://danville.craigslist.org/,10.00,danville
+https://fredericksburg.craigslist.org/,15.00,fredericksburg
+https://norfolk.craigslist.org/,25.00,hampton roads
+https://harrisonburg.craigslist.org/,10.00,harrisonburg
+https://lynchburg.craigslist.org/,10.00,lynchburg
+https://blacksburg.craigslist.org/,10.00,new river valley
+https://richmond.craigslist.org/,25.00,richmond
+https://roanoke.craigslist.org/,15.00,roanoke
+https://swva.craigslist.org/,10.00,southwest VA
+https://winchester.craigslist.org/,15.00,winchester
+https://bellingham.craigslist.org/,20.00,bellingham
+https://kpr.craigslist.org/,15.00,kennewick-pasco-richland
+https://moseslake.craigslist.org/,10.00,moses lake
+https://olympic.craigslist.org/,10.00,olympic peninsula
+https://pullman.craigslist.org/,10.00,pullman / moscow
+https://seattle.craigslist.org/,45.00,seattle-tacoma
+https://skagit.craigslist.org/,15.00,skagit / island / SJI
+https://spokane.craigslist.org/,25.00,spokane / coeur d'alene
+https://wenatchee.craigslist.org/,10.00,wenatchee
+https://yakima.craigslist.org/,15.00,yakima
+https://charlestonwv.craigslist.org/,10.00,charleston 
+https://martinsburg.craigslist.org/,10.00,eastern panhandle
+https://huntington.craigslist.org/,10.00,huntington-ashland
+https://morgantown.craigslist.org/,10.00,morgantown
+https://wheeling.craigslist.org/,10.00,northern panhandle
+https://parkersburg.craigslist.org/,10.00,parkersburg-marietta
+https://swv.craigslist.org/,10.00,southern WV
+https://wv.craigslist.org/,10.00,west virginia (old)
+https://appleton.craigslist.org/,20.00,appleton-oshkosh-FDL
+https://eauclaire.craigslist.org/,15.00,eau claire
+https://greenbay.craigslist.org/,20.00,green bay
+https://janesville.craigslist.org/,10.00,janesville
+https://racine.craigslist.org/,15.00,kenosha-racine
+https://lacrosse.craigslist.org/,15.00,la crosse
+https://madison.craigslist.org/,25.00,madison
+https://milwaukee.craigslist.org/,25.00,milwaukee
+https://northernwi.craigslist.org/,10.00,northern WI
+https://sheboygan.craigslist.org/,10.00,sheboygan
+https://wausau.craigslist.org/,15.00,wausau
+https://wyoming.craigslist.org/,10.00,wyoming
+https://micronesia.craigslist.org/,0.00,guam-micronesia
