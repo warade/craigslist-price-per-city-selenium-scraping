@@ -104,7 +104,8 @@ def run(driver_):
 
     logger.info('Web Driver: %s.',os.path.expanduser(driver_))
     chrome_options = Options()
-    chrome_options.add_argument('headless')
+    # Uncomment line below if you dont want a window of chrome pop up.
+    # chrome_options.add_argument('headless')
     driver = webdriver.Chrome(executable_path=os.path.realpath(driver_), chrome_options=chrome_options)
 
     with open('input_cities.txt', 'r') as csv_file:
